@@ -17,9 +17,7 @@ class patient{
 	int age;
 	string SIN;
 public:
-	patient;
-	void display;
-	~patient;
+	patient; // this is the first comment (test)
 };
 
 
